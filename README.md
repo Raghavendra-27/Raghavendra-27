@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghava</h1>
+<h1 align="center">Hi 👋, I'm Raghavendra</h1>
 <h3 align="center">🚀 B.Tech CSE (AI & ML) | AI & ML Aspirant | Based in Hyderabad, India</h3>
 
 <p align="center">
@@ -26,11 +26,10 @@
 
 | Name                  | Description                                                             | Tech |
 |-----------------------|-------------------------------------------------------------------------|------|
-| 🛒 **Deal and Deal**   | E-commerce platform with product browsing and checkout functionality   | HTML, CSS, JS |
-| 📊 **Road Accident Analysis** | Data analysis and prediction based on accident trends           | Python, Pandas, Matplotlib |
-| ❓ **ThinkFast**        | Online quiz platform with fast-paced timed questions                  | HTML, JS |
+| 🛒 [**Deal and Deal**](https://github.com/BonagiriRaghav/deal-and-deal) | E-commerce platform with product browsing and checkout functionality   | HTML, CSS, JS |
+| 📊 [**Road Accident Analysis**](https://github.com/BonagiriRaghav/road-accident-analysis) | Data analysis and prediction based on accident trends           | Python, Pandas, Matplotlib |
+| ❓ [**ThinkFast**](https://github.com/Raghavendra-27/ThinkFast-Quiz) | Online quiz platform with fast-paced timed questions                  | HTML, JS |
 
-> *(Let me know if you want real links added)*
 
 ---
 
