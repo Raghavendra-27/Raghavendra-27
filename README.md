@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghava</h1>
-<h3 align="center">🚀 B.Tech CSE (AI & ML) | AIML Aspirant | Based in Hyderabad, India</h3>
+<h3 align="center">🚀 B.Tech CSE (AI & ML) | AI & ML Aspirant | Based in Hyderabad, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Data+Science+Learner;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/raghavendra27" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:raghavendrabonagiri5.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/BonagiriRaghav" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
