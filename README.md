@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghava</h1>
-<h3 align="center">🚀 B.Tech CSE (AI & ML) | GATE 2026 Aspirant | Based in Hyderabad, India</h3>
+<h3 align="center">🚀 B.Tech CSE (AI & ML) | AIML Aspirant | Based in Hyderabad, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Data+Science+Learner;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
